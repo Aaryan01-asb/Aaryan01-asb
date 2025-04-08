@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Aaryan Singh Bisht</h1>
+<h1 align="center">Hi , I'm Aaryan Singh Bisht</h1>
 <h3 align="center">Welcome to my GitHub! I'm a curious and enthusiastic Computer Science & Engineering undergrad, diving deep into the world of programming, development, and innovation. Whether it's building web apps, experimenting with AI/ML, or cracking DSA problems – I'm always up for a challenge.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryan01-asb&label=Profile%20views&color=0e75b6&style=flat" alt="aaryan01-asb" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaryan01-asb" alt="aaryan01-asb" /></a> </p>
 
-- 🌱 I’m currently learning **Google Cloud**
+-  I’m currently learning **Google Cloud**
 
-- 💬 Ask me about **CSE Student at JECRC UNIVERSITY- 💻 Passionate about Full Stack Development, AI/ML, and Open Source - 🔧 Currently working on- 🧠 Learning: [e.g., Next.js, Docker, Deep Learning]**
+-  Ask me about **CSE Student at JECRC UNIVERSITY-  Passionate about Full Stack Development, AI/ML, and Open Source - Currently working on- Learning: [e.g., Next.js, Docker, Deep Learning]**
 
-- 📫 How to reach me **aaryansinghbisht08@gmail.com**
+-  How to reach me **aaryansinghbisht08@gmail.com**
 
-- 📄 Know about my experiences [**Languages**: C++, Java, Python, JavaScript, HTML, CSS. -Learning google cloud](**Languages**: C++, Java, Python, JavaScript, HTML, CSS. -Learning google cloud)
+-  Know about my experiences [**Languages**: C++, Java, Python, JavaScript, HTML, CSS. -Learning google cloud](**Languages**: C++, Java, Python, JavaScript, HTML, CSS. -Learning google cloud)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
