@@ -13,6 +13,20 @@
 
 -  Know about my experiences [**Languages**: C++, Java, Python, JavaScript, HTML, CSS. -Learning google cloud](**Languages**: C++, Java, Python, JavaScript, HTML, CSS. -Learning google cloud)
 
+Certifications & Courses
+Google Cloud Skill Boost: Cloud Computing Foundations
+
+Completed the official Google Cloud Foundation series with hands-on labs and earned the following 8 skill badges:
+
+1.[Badge1]https://www.cloudskillsboost.google/public_profiles/ddbf1229-5adc-479e-9297-a707d496fe37/badges/14446997
+2.[Badge2]https://www.cloudskillsboost.google/public_profiles/ddbf1229-5adc-479e-9297-a707d496fe37/badges/14448812
+3.[Badge3]https://www.cloudskillsboost.google/public_profiles/ddbf1229-5adc-479e-9297-a707d496fe37/badges/14455830
+4.[Badge4]https://www.cloudskillsboost.google/public_profiles/ddbf1229-5adc-479e-9297-a707d496fe37/badges/14462828
+5.Badge https://www.cloudskillsboost.google/public_profiles/ddbf1229-5adc-479e-9297-a707d496fe37/badges/14477475 
+6.[Badge6]https://www.cloudskillsboost.google/public_profiles/ddbf1229-5adc-479e-9297-a707d496fe37/badges/14478121
+7.[Badge7]https://www.cloudskillsboost.google/public_profiles/ddbf1229-5adc-479e-9297-a707d496fe37/badges/14489232
+8.[Badge 8]https://www.cloudskillsboost.google/public_profiles/ddbf1229-5adc-479e-9297-a707d496fe37/badges/14490327
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
